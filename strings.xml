@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlowFi Assistant</string>
+    <string name="a11y_desc">ভয়েস কমান্ড অনুযায়ী অন্য অ্যাপে বাটন ক্লিক করতে (যেমন WhatsApp-এ Send) এই সার্ভিস প্রয়োজন।</string>
+</resources>
